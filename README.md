@@ -1,2 +1,4 @@
 # launch.awx
-Packaged AWX and to use it one needs to follow some simple steps 
+Packaged AWX extrenally using docker, docker-compose. 
+User is created
+To use it one needs to follow some simple steps 
